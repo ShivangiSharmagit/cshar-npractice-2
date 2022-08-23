@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\areaprograms\areaprograms\obj\Debug\areaprograms.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\areaprograms\areaprograms\obj\Debug\areaprograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\areaprograms\areaprograms\obj\Debug\areaprograms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\areaprograms\areaprograms\bin\Debug\areaprograms.exe.config
+C:\Users\Dell\source\repos\areaprograms\areaprograms\bin\Debug\areaprograms.exe
+C:\Users\Dell\source\repos\areaprograms\areaprograms\bin\Debug\areaprograms.pdb
+C:\Users\Dell\source\repos\areaprograms\areaprograms\obj\Debug\areaprograms.exe
+C:\Users\Dell\source\repos\areaprograms\areaprograms\obj\Debug\areaprograms.pdb

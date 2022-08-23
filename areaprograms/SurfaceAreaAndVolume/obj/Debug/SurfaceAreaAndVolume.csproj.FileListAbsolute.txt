@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\areaprograms\SurfaceAreaAndVolume\bin\Debug\SurfaceAreaAndVolume.exe.config
+C:\Users\Dell\source\repos\areaprograms\SurfaceAreaAndVolume\bin\Debug\SurfaceAreaAndVolume.exe
+C:\Users\Dell\source\repos\areaprograms\SurfaceAreaAndVolume\bin\Debug\SurfaceAreaAndVolume.pdb
+C:\Users\Dell\source\repos\areaprograms\SurfaceAreaAndVolume\obj\Debug\SurfaceAreaAndVolume.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\areaprograms\SurfaceAreaAndVolume\obj\Debug\SurfaceAreaAndVolume.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\areaprograms\SurfaceAreaAndVolume\obj\Debug\SurfaceAreaAndVolume.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\areaprograms\SurfaceAreaAndVolume\obj\Debug\SurfaceAreaAndVolume.exe
+C:\Users\Dell\source\repos\areaprograms\SurfaceAreaAndVolume\obj\Debug\SurfaceAreaAndVolume.pdb
